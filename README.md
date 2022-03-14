@@ -1,1 +1,1 @@
-# social-media-backend-user-post
+# social-media-backend-user-posts
